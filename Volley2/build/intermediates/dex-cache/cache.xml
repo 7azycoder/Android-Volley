@@ -1,2 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_23f31707a70ddb16b941566b5412d31594cc537f/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7613fc37c9f3bea4d4b6d2f16a9bcb0c045ffc37">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5d807bc7c75fcb26630fc769bc5255c21a068ff5/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_2f56ec044ff6995c4b2090cc84a2221958e06e79/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="600cb5439fc5c0a217ec837dd2c90f496379dbd9">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_122469161bd6610d449654675fa7daf31ac376ab/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_bf94d2fa550816dbc360072d1d0587fec8a266e8/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_60d144112bac37dbc99dd6984ada37e7868a3dea/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_bed0c32f75842a786e9b6622092a214ecd3c01f1/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ea8dfcded4fa5b7d202ce782e104619c30f38e48/classes.dex" />
+    </item>
+    <item
+        jar="/home/devlovepreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/devlovepreet/AndroidProjects/Volley2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e9e5d53bb8ce9708a99949d960a978a53dbceb01/classes.dex" />
+    </item>
+
+</items>

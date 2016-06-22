@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                             public void onErrorResponse(VolleyError error) {
                                 textView.setText("Error");
                                 error.printStackTrace();
-                                requestQueue.stop();
+
                             }
                         });
                 requestQueue.add(stringRequest);
